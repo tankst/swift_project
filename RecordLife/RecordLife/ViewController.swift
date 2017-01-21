@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RecordLife
 //
-//  Created by 齐云 on 2016/12/24.
+//  Created by  卞克 on 2016/12/24.
 //  Copyright © 2016年 齐云猛. All rights reserved.
 //
 
