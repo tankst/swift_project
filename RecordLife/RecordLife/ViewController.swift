@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-       Q_Log(message: "哈哈哈哈111222233突")
+       Q_Log(message: "哈哈哈哈111222233突就打了款")
     
     }
 
