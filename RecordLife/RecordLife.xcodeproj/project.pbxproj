@@ -12,7 +12,6 @@
 		E111B2671E2E37AA00335CB9 /* MoneyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E111B2661E2E37AA00335CB9 /* MoneyTableViewCell.swift */; };
 		E111B2691E2E38E800335CB9 /* MoneyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E111B2681E2E38E800335CB9 /* MoneyModel.swift */; };
 		E13B58A51E2E79BE00BA14A9 /* MoneyViewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E13B58A41E2E79BE00BA14A9 /* MoneyViewData.swift */; };
-		E13B58A71E2E7CC100BA14A9 /* MoneyPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = E13B58A61E2E7CC100BA14A9 /* MoneyPlist.plist */; };
 		E143B2821E311B8D001B91CF /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E143B2811E311B8D001B91CF /* LocationManager.swift */; };
 		E143B2841E311BB2001B91CF /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E143B2831E311BB2001B91CF /* CoreLocation.framework */; };
 		E143B38E1E31234B001B91CF /* SwifterSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E143B38D1E31234B001B91CF /* SwifterSwift.framework */; };
@@ -76,7 +75,6 @@
 		E111B2661E2E37AA00335CB9 /* MoneyTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoneyTableViewCell.swift; sourceTree = "<group>"; };
 		E111B2681E2E38E800335CB9 /* MoneyModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoneyModel.swift; sourceTree = "<group>"; };
 		E13B58A41E2E79BE00BA14A9 /* MoneyViewData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoneyViewData.swift; sourceTree = "<group>"; };
-		E13B58A61E2E7CC100BA14A9 /* MoneyPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MoneyPlist.plist; sourceTree = "<group>"; };
 		E143B2811E311B8D001B91CF /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		E143B2831E311BB2001B91CF /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		E143B38D1E31234B001B91CF /* SwifterSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwifterSwift.framework; path = "../../../Library/Developer/Xcode/DerivedData/RecordLife-hengtbtdphfoncgmlfgofczqsicg/Build/Products/Debug-iphonesimulator/SwifterSwift/SwifterSwift.framework"; sourceTree = "<group>"; };
@@ -447,7 +445,6 @@
 		E1CC5FCB1E0E51B4000A9EC6 = {
 			isa = PBXGroup;
 			children = (
-				E13B58A61E2E7CC100BA14A9 /* MoneyPlist.plist */,
 				E1CC5FD61E0E51B4000A9EC6 /* RecordLife */,
 				E1CC5FD51E0E51B4000A9EC6 /* Products */,
 				43C57BE674600521EDE57438 /* Pods */,
@@ -551,7 +548,6 @@
 			files = (
 				E1CC5FE21E0E51B4000A9EC6 /* LaunchScreen.storyboard in Resources */,
 				E1CC5FDF1E0E51B4000A9EC6 /* Assets.xcassets in Resources */,
-				E13B58A71E2E7CC100BA14A9 /* MoneyPlist.plist in Resources */,
 				E1CC5FDD1E0E51B4000A9EC6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
