@@ -1,0 +1,6 @@
+framework module Pods_RecordLife {
+  umbrella header "Pods-RecordLife-umbrella.h"
+
+  export *
+  module * { export * }
+}
