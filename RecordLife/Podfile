@@ -9,7 +9,7 @@ pod 'FMDB'
 #pod 'RealmSwift'
 
 
-pod 'YYKit', '~> 1.0.9'
+#pod 'YYKit', '~> 1.0.9'
 pod 'SwifterSwift', '~> 1.3.7'
 
 
