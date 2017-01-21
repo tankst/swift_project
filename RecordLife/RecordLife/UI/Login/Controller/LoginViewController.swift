@@ -30,7 +30,6 @@ class LoginViewController: BaseViewController {
             self.login_success()
         }
 
-        view.snapshotImage()
         
     }
     

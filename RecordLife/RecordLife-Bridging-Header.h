@@ -4,6 +4,6 @@
 
 
 //#import "Category.h"
-#import "YYKit.h"
-#import <CommonCrypto/CommonHMAC.h>
+//#import "YYKit.h"
+#import <CommonCrypto/CommonHMAC.h>  //加密的
 #import <CommonCrypto/CommonCrypto.h>
