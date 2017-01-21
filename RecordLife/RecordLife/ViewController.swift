@@ -16,18 +16,5 @@ class ViewController: UIViewController {
        Q_Log(message: "哈哈哈哈111222233突就打了款")
     
     }
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
 
