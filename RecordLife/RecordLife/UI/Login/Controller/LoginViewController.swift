@@ -10,6 +10,8 @@ import UIKit
 //import RxSwift
 //import RxCocoa
 //import RxDataSources
+//import YYKit
+import SwifterSwift
 
 class LoginViewController: BaseViewController {
     
@@ -27,16 +29,15 @@ class LoginViewController: BaseViewController {
         login(username: username_textField.text, password: password_textField.text) { [unowned self] in
             self.login_success()
         }
-        
-        
-       
-        
+
         
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        Q_Log(message: "哈哈哈哈111222233突就打了款")
+
         
         let _ =  self.rx.deallocated.subscribe { (id) in
             Q_Log(message: "登录成功")

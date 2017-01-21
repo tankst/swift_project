@@ -8,7 +8,6 @@
 
 import Foundation
 import UIKit
-import YYKit
 
 //打印
 func Q_Log<T>(message : T, file : String = #file, lineNumber : Int = #line) {
